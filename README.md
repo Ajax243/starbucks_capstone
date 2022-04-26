@@ -16,7 +16,7 @@ sklearn
 - Exploratory Data Analysis
 - Model Preparation
 - Model
-- Conclusion
+
 
 ## 4-project layout:
 
