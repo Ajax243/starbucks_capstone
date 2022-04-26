@@ -27,3 +27,6 @@ data <br>
 |- portfolio.json # data to process <br>
 |- transcript.json # data to process <br>
 |- profile.json <br>
+
+## 5- An article was published based on this project on medium that can be found at:
+ https://medium.com/@m.osamasalman/loyalty-to-coffee-e859a6403d18
